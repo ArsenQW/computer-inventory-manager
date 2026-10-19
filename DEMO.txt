@@ -1,0 +1,60 @@
+Recorded sample run; all details are fictional.
+
+
+COMPUTER INVENTORY MANAGER
+1. Add device
+2. List devices
+3. Search
+4. Assign or return
+5. Edit device
+6. Delete device
+7. Summary
+0. Exit
+Choose: Serial: Brand: Model: Operating system: 1. Good  2. Needs Repair  3. Retired
+Condition: Device saved.
+
+COMPUTER INVENTORY MANAGER
+1. Add device
+2. List devices
+3. Search
+4. Assign or return
+5. Edit device
+6. Delete device
+7. Summary
+0. Exit
+Choose: Serial: User (blank to return device): Change saved.
+
+COMPUTER INVENTORY MANAGER
+1. Add device
+2. List devices
+3. Search
+4. Assign or return
+5. Edit device
+6. Delete device
+7. Summary
+0. Exit
+Choose: 
+DEMO-1001 | Example Laptop 14 | Linux
+Condition: Good | Assigned | User: Alex Demo
+
+COMPUTER INVENTORY MANAGER
+1. Add device
+2. List devices
+3. Search
+4. Assign or return
+5. Edit device
+6. Delete device
+7. Summary
+0. Exit
+Choose: Total: 1 | Assigned: 1 | Available: 0
+
+COMPUTER INVENTORY MANAGER
+1. Add device
+2. List devices
+3. Search
+4. Assign or return
+5. Edit device
+6. Delete device
+7. Summary
+0. Exit
+Choose: 
